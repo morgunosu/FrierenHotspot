@@ -6,7 +6,7 @@
 
 A minimalist and sophisticated Windows utility that transforms your PC or laptop into a fully functional Wi-Fi hotspot. Built with **C# (WPF / .NET 8)**, it combines system-level power with a clean, ethereal aesthetic.
 
-![UI Preview](https://via.placeholder.com/800x450/0A0A0C/FF4081?text=Drop+Your+Screenshot+Here) 
+![UI Preview](https://morgun.s-ul.eu/2o5gxXap) 
 
 ## ✨ Features
 
@@ -41,3 +41,4 @@ cd FrierenHotspot
 
 # Run the app
 dotnet run
+
