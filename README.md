@@ -1,8 +1,12 @@
 # 🌐 Frieren.Net — Virtual Wi-Fi Router
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 A minimalist and sophisticated Windows utility that transforms your PC or laptop into a fully functional Wi-Fi hotspot. Built with **C# (WPF / .NET 8)**, it combines system-level power with a clean, ethereal aesthetic.
 
-![UI Preview](https://via.placeholder.com/800x450/0A0A0C/FF4081?text=Frieren.Net+Interface+Preview) 
+![UI Preview](https://via.placeholder.com/800x450/0A0A0C/FF4081?text=Drop+Your+Screenshot+Here) 
 
 ## ✨ Features
 
@@ -16,11 +20,11 @@ A minimalist and sophisticated Windows utility that transforms your PC or laptop
 
 ## 🚀 How to Install and Use
 
-1.  Go to the [Releases](../../releases) section on the right and download the latest `FrierenHotspot_Setup.exe`.
-2.  Install and launch the application.
-3.  Choose a unique Network Name (**SSID**) and a secure **Password**.
-4.  Click **START HOTSPOT**.
-5.  ⚠️ **Important:** Click the **"Instruction"** button inside the app. It will show you how to enable Windows Internet Connection Sharing (ICS) in just 3 clicks.
+1. Go to the [Releases](https://github.com/morgunosu/FrierenHotspot/releases) section and download the latest `FrierenHotspot_Setup.exe`.
+2. Install and launch the application.
+3. Choose a unique Network Name (**SSID**) and a secure **Password**.
+4. Click **START HOTSPOT**.
+5. ⚠️ **Important:** Click the **"Help: How to Share Internet"** button inside the app. It will show you how to enable Windows Internet Connection Sharing (ICS) in just 3 steps.
 
 ---
 
@@ -30,7 +34,7 @@ If you want to compile the project yourself, ensure you have the **.NET 8 SDK** 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_NICKNAME/FrierenHotspot.git](https://github.com/YOUR_NICKNAME/FrierenHotspot.git)
+git clone [https://github.com/morgunosu/FrierenHotspot.git](https://github.com/morgunosu/FrierenHotspot.git)
 
 # Navigate to the project folder
 cd FrierenHotspot
